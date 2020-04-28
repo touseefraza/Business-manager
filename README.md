@@ -1,12 +1,12 @@
 > Business-manager
-
-#Project setup
+#
+**Project setup**
 - git clone git@github.com:touseefraza/Business-manager.git
 - cd Business-manager
 - git fetch
 - git checkout development
 
-#Database Setup
+**Database Setup**
 - Download mongoDb
 - unzip the download file
 - follow this link(for windows) >> https://docs.mongodb.com/manual/tutorial/install-mongodb-enterprise-on-windows/
@@ -17,7 +17,7 @@
 - Download mongoDB compass
 - connect to localhost
 
-#Sytem Requiredment 
+**Sytem Requiredment** 
 - Node js version (v10.16.3)
 - npm version (6.9.0)
 - React js version (16.13.0)
