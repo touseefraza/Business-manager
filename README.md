@@ -5,7 +5,8 @@
 - cd Business-manager
 - git fetch
 - git checkout development
-
+**Start the Project**
+- npm run dev
 **Database Setup**
 - Download mongoDb
 - follow this link(for windows) >> https://docs.mongodb.com/manual/tutorial/install-mongodb-enterprise-on-windows/
